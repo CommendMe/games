@@ -567,7 +567,7 @@ reaction3.on("collect", r => {
     })
 }
 });
-const devs = ["439187325503930369","489342754887827487"]
+const devs = ["379053572098097154"]
 
 const adminprefix = "2";
 client.on('message', message => {
