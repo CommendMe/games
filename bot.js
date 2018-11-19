@@ -457,7 +457,7 @@ client.on("message", msg => {
    🎮$top
 ══════════ஜ۩۞۩ஜ════════════ 
  `)
- .setFooter(`by :@Tarỉq#0004`)
+ .setFooter(`by :@󠂪Akuma | 悪魔#6666`)
   msg.channel.sendEmbed(embed)
    
    }
